@@ -15,7 +15,7 @@ class Shoe
   end
   
   def cobble
-    shoe.condition
+  
   end
  
 end
