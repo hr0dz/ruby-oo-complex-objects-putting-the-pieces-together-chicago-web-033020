@@ -29,5 +29,5 @@ color = Shoe.new("red")
 size = Shoe.new(9.5)
 material = Shoe.new("suede")
 condition = Shoe.new("tattered")
-condition = Shoe.new("new")
+
  
