@@ -27,7 +27,6 @@ end
 #material = Shoe.new("suede")
 #condition = Shoe.new("tattered")
 
-self.size
 
 
  
