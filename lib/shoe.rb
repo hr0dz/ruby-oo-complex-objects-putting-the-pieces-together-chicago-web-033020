@@ -15,6 +15,7 @@ class Shoe
   
   def cobble
     if shoe.condition == "new"
+      puts 
     
     
 end
