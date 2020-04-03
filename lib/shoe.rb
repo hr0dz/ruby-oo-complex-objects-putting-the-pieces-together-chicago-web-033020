@@ -18,7 +18,6 @@ class Shoe
     puts "Your shoe is as good as new!"
     
   end
-  self.size
 end
 
 #Shoe.new("Nike")
