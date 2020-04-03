@@ -22,10 +22,10 @@ class Shoe
 end
 
 Shoe.new("Nike")
-color = Shoe.new("red")
-size = Shoe.new(9.5)
-material = Shoe.new("suede")
-condition = Shoe.new("tattered")
+#color = Shoe.new("red")
+#size = Shoe.new(9.5)
+#material = Shoe.new("suede")
+#condition = Shoe.new("tattered")
 
 
  
